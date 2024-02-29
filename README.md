@@ -1,1 +1,1 @@
-I'll be documenting my learning journey on hugging face transformers here
+I'll be documenting my NLP learning journey using the [HuggingFace NLP](https://huggingface.co/learn/nlp-course/chapter1/2?fw=pt) course. 
